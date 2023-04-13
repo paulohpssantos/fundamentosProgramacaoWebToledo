@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+}
+
+div{
+    width: 200px;
+    height: 300px;
+}
+
+.divSticky{
+    background-color: aqua;
+    position: sticky;
+    top: 100px;
+    left: 400px;
+}
+
+.divRelative{
+    background-color: blue;
+    position: relative;
+    top: 120px;
+    left: 800px;
+}
+
+.divFixed{
+    background-color: green;
+    position: fixed;
+    top: 200px;
+    left: 200px;
+}
+
+.divStatic{
+    background-color: red;
+    position: static;
+    top: 300px;
+    left: 300px;
+}
+
+.divAbsolute{
+    background-color: darkcyan;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+}
+
+.divAlignCenter{
+   background-color: darkgoldenrod; 
+   margin: 0 auto;
+   width: 50%;
+   height: 300px;
+}
+
+.divLeft{
+    background-color: cornflowerblue;
+    float: left;
+}
+
+.divRight{
+    background-color: pink;
+    float: right;
+}
+
+.divMenu{
+   background-color: red;
+   width: 100%;
+   height: 50px; 
+   top: 0px;
+   left: 0px;
+   position: fixed;
+}
+
+.logoUnipar{
+    height: 50px;
+}
+
+.tituloMenu{
+    top: 20px;
+    position: fixed;
+    left: 70px;
+    font-size: larger;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
