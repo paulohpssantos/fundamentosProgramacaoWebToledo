@@ -1,0 +1,6 @@
+1 - Faça uma página que tenha dois campos numérico (type="number") 
+e um botão somar, ao clicar no botão  exiba o resultado da soma dos 
+dois números informados;  
+
+2 - Faça uma página que receba um valor que é o valor pago, 
+um segundo valor que é o preço do produto e retorne o troco a ser dado.
